@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hakuna 👋
 
 <<h1 align="center">Hi 👋, I'm Kiran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Automatic speech recognition problems**
 
-- 💬 Ask me about **Any help with ML projects, getting started in ML, Java, C, OpenCV**
+- 💬 Ask me about **Any help with ML projects, getting started in ML, Java, C**
 
 - 📫 How to reach me **jayasankarkiran594@gmail.com**
 
