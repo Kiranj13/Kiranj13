@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Java](Computer vision)
 
-- 👯 I’m looking to collaborate on **Automatic speech recognition problems**
+- 👯 I’m looking to collaborate on solving Problems with Java
 
 - 📫 How to reach me **jayasankarkiran594@gmail.com**
 
