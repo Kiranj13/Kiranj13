@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **Automatic speech recognition problems**
 
-- 💬 Ask me about **Any help with ML projects, getting started in ML, Java, C, OpenCV**
-
 - 📫 How to reach me **jayasankarkiran594@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
